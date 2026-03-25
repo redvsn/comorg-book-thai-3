@@ -2,7 +2,7 @@
 📊 ตารางสรุปหัวข้อ (Chapter 5)
 | หัวข้อ                        | ผู้รับผิดชอบ       | ลิงก์ไฟล์                                            |
 | ----------------------------- | ------------------ | ---------------------------------------------------- |
-| 5.1 Semiconductor Main Memory | นาย วรินทร เพ็งทับ | 👉 (chapter 5.1 Semiconductor Main Memo.md) |
+| 5.1 Semiconductor Main Memory | นาย วรินทร เพ็งทับ | 👉 chapter%205.1%20Semiconductor%20Main%20Memo.md) |
 | 5.2 Error Correction          | นาย วรินทร เพ็งทับ | 👉 (chapter-5/chapter 5.2 Error Correction.md)  |
 | 5.3 DDR DRAM                  | นาย วรินทร เพ็งทับ | 👉 chapter-5/chapter 5.3 DDR DRAM.md                |
 | 5.4 Flash Memory              | นาย วรินทร เพ็งทับ | 👉 /mnt/data/chapter 5.4 Flash Memory.txt            |
