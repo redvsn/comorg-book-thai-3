@@ -3,7 +3,7 @@
 | หัวข้อ                        | ผู้รับผิดชอบ       | ลิงก์ไฟล์                                            |
 | ----------------------------- | ------------------ | ---------------------------------------------------- |
 | 5.1 Semiconductor Main Memory | นาย วรินทร เพ็งทับ | 👉 5.1 Semiconductor Main Memo.md |
-| 5.2 Error Correction          | นาย วรินทร เพ็งทับ | 👉 5.2 Error Correction.txt        |
+| 5.2 Error Correction          | นาย วรินทร เพ็งทับ | 👉 chapter-5/chapter 5.1 Semiconductor Main Memo.md  |
 | 5.3 DDR DRAM                  | นาย วรินทร เพ็งทับ | 👉 5.3 DDR DRAM.txt                |
 | 5.4 Flash Memory              | นาย วรินทร เพ็งทับ | 👉 /mnt/data/chapter 5.4 Flash Memory.txt            |
 | 5.5 Newer Nonvolatile Memory  | นาย วรินทร เพ็งทับ | 👉 /mnt/data/chapter 5.5 Newer Nonvolatile Solid.txt |
